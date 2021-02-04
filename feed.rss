@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Невчесани мисли</title><link>https://senseiski.github.io/index.html</link>
+<description>rather plain blog</description><language>en</language>
+<lastBuildDate>Thu, 04 Feb 2021 11:32:39 +0200</lastBuildDate>
+<pubDate>Thu, 04 Feb 2021 11:32:39 +0200</pubDate>
+<atom:link href="https://senseiski.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Първи пост
+</title><description><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://senseiski.github.io/-.html</link>
+<guid>https://senseiski.github.io/./-.html</guid>
+<dc:creator>х.</dc:creator>
+<pubDate>Thu, 04 Feb 2021 11:08:21 +0200</pubDate></item>
+</channel></rss>
