@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Невчесани мисли</title><link>https://senseiski.github.io/index.html</link>
+<description>rather simple blog</description><language>en</language>
+<lastBuildDate>Thu, 04 Feb 2021 10:25:27 +0200</lastBuildDate>
+<pubDate>Thu, 04 Feb 2021 10:25:27 +0200</pubDate>
+<atom:link href="https://senseiski.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Post with images
+</title><description><![CDATA[
+
+<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
+as soon as you exit your editor.
+<img src="pictures/1.jpg" alt="" title="" /></p>
+
+<p>Tags: <a href='tag_tag1.html'>tag1</a></p>
+<!-- text end -->
+]]></description><link>https://senseiski.github.io/post-with-images.html</link>
+<guid>https://senseiski.github.io/./post-with-images.html</guid>
+<dc:creator>HB</dc:creator>
+<pubDate>Thu, 04 Feb 2021 10:25:23 +0200</pubDate></item>
+<item><title>
+Test entry without image
+</title><description><![CDATA[
+
+<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
+as soon as you exit your editor.
+Tags: test1</p>
+
+<!-- text end -->
+]]></description><link>https://senseiski.github.io/test-entry-without-image.html</link>
+<guid>https://senseiski.github.io/./test-entry-without-image.html</guid>
+<dc:creator>HB</dc:creator>
+<pubDate>Thu, 04 Feb 2021 10:23:36 +0200</pubDate></item>
+</channel></rss>
